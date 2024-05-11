@@ -1,6 +1,5 @@
 # Standard Crud Api 
-
-Sistema CRUD básico para treinamento de api com Django
+Sistema CRUD básico para treinamento de api com Django utilizando arquitetura MVC.
 
 ### API_ROOT
 ```
