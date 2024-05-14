@@ -1,3 +1,0 @@
-$ django-admin startproject api_root .
-
-$ python3 manage.py startapp api_rest
